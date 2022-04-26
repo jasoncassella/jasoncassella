@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Cassella</h1>
 <h3 align="center">A NYC based software engineer developing full-stack JavaScript applications.</h3>
 
-- 🔭 I’m currently working on **a sorting visualizer app**
+- 🔭 I’m currently working on [a sorting visualizer app](https://github.com/jasoncassella/sortingVisualizer)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasoncassella&show_icons=true&locale=en" alt="jasoncassella" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasoncassella&" alt="jasoncassella" /></p>
+
