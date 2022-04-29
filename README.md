@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Cassella</h1>
 <h3 align="center">A NYC based software engineer developing full-stack JavaScript applications.</h3>
 
-- 🔭 I’m currently working on [a sorting visualizer app](https://github.com/jasoncassella/sortingVisualizer)
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **jasoncassella1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasoncassella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasoncassella" height="30" width="40" /></a>
