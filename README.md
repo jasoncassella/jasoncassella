@@ -1,4 +1,4 @@
-<h1 align="center">Jason Cassella</h1>
+<h1 align="center">Jason Cassela</h1>
 <h3 align="center">A NYC based software engineer developing full-stack JavaScript applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
