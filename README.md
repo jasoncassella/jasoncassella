@@ -7,7 +7,7 @@ Web Developer
 *   🌍  I'm based in NYC
 *   🖥️  See my portfolio at [portfolio-jasoncassella.vercel.app](http://portfolio-jasoncassella.vercel.app)
 *   ✉️  You can contact me at [jasoncassella1@gmail.com](mailto:jasoncassella1@gmail.com)
-*   🧠  I'm currently learning TypeScript
+*   🧠  I'm currently learning NextJS 13
 
 ### Skills 
 <p align="left">
